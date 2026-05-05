@@ -1,16 +1,6 @@
 <div align="center">
 
-```
- ___   ___   _  _  _  _ __   __
-/ __| / _ \ | \| || \| |\ \ / /
-\__ \| (_) || .` || .` | \ V / 
-|___/ \___/ |_|\_||_|\_|  |_|  
-
- ___  ___  _   _  _  _ 
-| _ )| _ \| | | || \| |
-| _ \|   /| |_| || .` |
-|___/|_|_\ \___/ |_|\_|
-```
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:1a1a2e&height=200&section=header&text=Sonny%20Brun&fontSize=65&fontColor=64ffda&fontAlignY=42&desc=Cybersecurity%20%E2%80%A2%20Network%20%E2%80%A2%20Pentesting&descSize=18&descAlignY=65&descColor=a8b2d8&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=64FFDA&center=true&vCenter=true&width=580&lines=Network+%26+Telecommunications+%E2%80%94+Cybersecurity;Pentesting+%C2%B7+Web+Security+%C2%B7+Forensics+%C2%B7+Networking;IT+Apprentice+%E2%80%94+Infrastructure+%26+Systems)](https://git.io/typing-svg)
 
