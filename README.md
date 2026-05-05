@@ -32,6 +32,8 @@ Passionné par la sécurité offensive, l'analyse réseau et la forensique.
 
 ## 🎯 Domaines de compétences
 
+<div align="center">
+
 | Domaine | Niveau |
 |---|---|
 | 🔴 Pentest & Offensif | Intermédiaire |
@@ -39,6 +41,8 @@ Passionné par la sécurité offensive, l'analyse réseau et la forensique.
 | 🔵 Réseau & Infrastructure | Avancé |
 | 🔍 Forensique & Défense | En progression |
 | 📡 OSINT | Intermédiaire |
+
+</div>
 
 ---
 
@@ -71,15 +75,15 @@ Passionné par la sécurité offensive, l'analyse réseau et la forensique.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SyXploit&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=64ffda&icon_color=64ffda"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sonnybn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=64ffda&icon_color=64ffda"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyXploit&layout=compact&theme=github_dark&hide_border=true&title_color=64ffda"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnybn&layout=compact&theme=github_dark&hide_border=true&title_color=64ffda"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SyXploit&theme=dark&hide_border=true&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA)
+![GitHub Streak](https://streak-stats.demolab.com?user=sonnybn&theme=dark&hide_border=true&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA)
 
 </div>
 
@@ -104,7 +108,7 @@ IUT Roanne · 2023 → 2026 · Alternance
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-SyXploit-181717?style=flat-square&logo=github)](https://github.com/SyXploit)
+[![GitHub](https://img.shields.io/badge/GitHub-sonnybn-181717?style=flat-square&logo=github)](https://github.com/sonnybn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonny-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/TONPROFIL)
 
 </div>
