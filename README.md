@@ -1,150 +1,106 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=SyXploit&fontSize=60&fontColor=e2e8f0&fontAlignY=38&desc=Cybersecurity%20%7C%20Network%20%7C%20Pentesting&descSize=18&descAlignY=60&descColor=94a3b8" />
+</div>
 
-```
-███████╗██╗   ██╗██╗  ██╗██████╗ ██╗      ██████╗ ██╗████████╗
-██╔════╝╚██╗ ██╔╝╚██╗██╔╝██╔══██╗██║     ██╔═══██╗██║╚══██╔══╝
-███████╗ ╚████╔╝  ╚███╔╝ ██████╔╝██║     ██║   ██║██║   ██║   
-╚════██║  ╚██╔╝   ██╔██╗ ██╔═══╝ ██║     ██║   ██║██║   ██║   
-███████║   ██║   ██╔╝ ██╗██║     ███████╗╚██████╔╝██║   ██║   
-╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝   
-```
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Pentest+%7C+Web+Security+%7C+Network+%26+Infra;BUT+R%26T+%E2%80%94+Parcours+Cybers%C3%A9curit%C3%A9;Offensive+mindset%2C+defensive+knowledge.;%24+whoami+%3E+SyXploit)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=64FFDA&center=true&vCenter=true&width=580&lines=BUT+R%26T+%E2%80%94+Parcours+Cybers%C3%A9curit%C3%A9;Pentest+%C2%B7+Web+Security+%C2%B7+Forensique+%C2%B7+R%C3%A9seau;Apprenti+IT+%E2%80%94+Infrastructure+%26+Syst%C3%A8mes)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```bash
-┌──(syxploit㉿kali)-[~]
-└─$ cat about.txt
-```
+## 👤 À propos
 
-```
-> Name        : Sonny
-> Role        : Étudiant en BUT Réseaux & Télécommunications — Cybersécurité
->               Apprenti IT (Réseaux & Infrastructure)
-> Location    : Roanne, France  
-> Focus       : Pentest | Web Security | Forensique | Réseau
-> Status      : [ ██████████░░░░░░░░ ] ... Learning in progress
-```
+Étudiant en **BUT Réseaux & Télécommunications** (parcours Cybersécurité) à Roanne, France.  
+Actuellement en alternance sur des environnements d'infrastructure entreprise (IBM, AS/400, réseaux).  
+Passionné par la sécurité offensive, l'analyse réseau et la forensique.
 
 ---
 
-```bash
-┌──(syxploit㉿kali)-[~]
-└─$ cat skills.txt
-```
+## 🎯 Domaines de compétences
 
-**`// Offensive & Web Security`**
-```
-[*] Pentest Web          ████████████░░░░  Intermédiaire
-[*] Metasploit / MSF     ████████░░░░░░░░  Intermédiaire
-[*] OSINT                ██████████░░░░░░  Intermédiaire
-[*] Burp Suite           ███████░░░░░░░░░  En progression
-[*] CVE Analysis         █████████░░░░░░░  Intermédiaire
-```
-
-**`// Réseau & Infrastructure`**
-```
-[*] Cisco / Routage      ████████████░░░░  Avancé
-[*] RIPv2 / OSPFv2       ████████████░░░░  Avancé
-[*] VLAN / QoS           ██████████░░░░░░  Intermédiaire
-[*] IBM AS/400 (iSeries) ██████░░░░░░░░░░  En apprentissage
-[*] Wireshark            ████████░░░░░░░░  Intermédiaire
-```
-
-**`// Forensique & Défense`**
-```
-[*] Log Analysis         ████████░░░░░░░░  Intermédiaire
-[*] Incident Response    ██████░░░░░░░░░░  En progression
-[*] Hashcat / Responder  ███████░░░░░░░░░  Intermédiaire
-```
+| Domaine | Niveau |
+|---|---|
+| 🔴 Pentest & Offensif | Intermédiaire |
+| 🌐 Web Security | Intermédiaire |
+| 🔵 Réseau & Infrastructure | Avancé |
+| 🔍 Forensique & Défense | En progression |
+| 📡 OSINT | Intermédiaire |
 
 ---
 
-```bash
-┌──(syxploit㉿kali)-[~]
-└─$ ls -la tools/
-```
+## 🛠️ Stack & Outils
+
+**Sécurité**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-2D2D2D?style=flat-square&logoColor=white)
+
+**Réseau & Infra**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM_iSeries-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+**Développement**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SyXploit&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=64ffda&icon_color=64ffda"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-</div>
-
----
-
-```bash
-┌──(syxploit㉿kali)-[~]
-└─$ github-stats --user SyXploit
-```
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SyXploit&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyXploit&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyXploit&layout=compact&theme=github_dark&hide_border=true&title_color=64ffda"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SyXploit&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+![GitHub Streak](https://streak-stats.demolab.com?user=SyXploit&theme=dark&hide_border=true&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA)
 
 </div>
 
 ---
 
-```bash
-┌──(syxploit㉿kali)-[~]
-└─$ cat formation.txt
-```
+## 🎓 Formation
 
-```
-[+] BUT Réseaux & Télécommunications — Parcours Cybersécurité
-    └─ IUT Roanne (2023 → 2026)
-    └─ Apprentissage en entreprise (IT / Infrastructure)
-    └─ Modules : Pentest, Forensique, Réseau, Dev Web, Sécurité système
+**BUT Réseaux & Télécommunications — Cybersécurité**  
+IUT Roanne · 2023 → 2026 · Alternance
 
-[+] Certifications en cours :
-    └─ [ ] Cisco CCNA (en préparation)
-    └─ [ ] eJPT / CEH (objectif 2025-2026)
-```
+- Sécurité système & réseau, pentesting, forensique
+- Routing avancé (RIPv2, OSPFv2), QoS, VLAN
+- Analyse de vulnérabilités (CVE), OSINT, Metasploit
+
+**Certifications visées**
+- [ ] Cisco CCNA
+- [ ] eJPT / CEH
 
 ---
 
-```bash
-┌──(syxploit㉿kali)-[~]
-└─$ cat contact.txt
-```
+## 📬 Contact
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-SyXploit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyXploit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TONPROFIL)
+[![GitHub](https://img.shields.io/badge/GitHub-SyXploit-181717?style=flat-square&logo=github)](https://github.com/SyXploit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonny-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/TONPROFIL)
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-```
-[ System Status: ONLINE ]  //  "The quieter you become, the more you are able to hear."
-```
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SyXploit.SyXploit&color=00ff41)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" />
 </div>
