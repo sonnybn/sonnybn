@@ -65,10 +65,7 @@ Cybersecurity student enrolled in a **Bachelor of Technology in Networks & Telec
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sonnybn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=a8b2d8&bg_color=0d1117"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnybn&layout=compact&theme=tokyonight&hide_border=true&title_color=64ffda&text_color=a8b2d8&bg_color=0d1117"/>
 
-<br/>
 
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=sonnybn&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=a8b2d8&dates=a8b2d8"/>
 
