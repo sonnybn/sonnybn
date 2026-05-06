@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,40:0f2942,100:00ff88&height=200&section=header&text=Sonny%20Brun&fontSize=62&fontColor=ffffff&fontAlignY=48&desc=Cybersecurity%20%E2%80%A2%20Network%20%E2%80%A2%20Pentesting&descSize=17&descAlignY=70&descColor=64ffda&fontAlign=50&animation=scaleIn&stroke=00ff88&strokeWidth=2)
+<img src="https://raw.githubusercontent.com/sonnybn/sonnybn/main/banner.svg" width="100%" alt="Sonny Brun — Cybersecurity Banner"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=64FFDA&center=true&vCenter=true&width=580&lines=Network+%26+Telecommunications+%E2%80%94+Cybersecurity;Pentesting+%C2%B7+Web+Security+%C2%B7+Forensics+%C2%B7+Networking;IT+Apprentice+%E2%80%94+Infrastructure+%26+Systems)](https://git.io/typing-svg)
 
@@ -86,6 +86,6 @@ Cybersecurity student enrolled in a **Bachelor of Technology in Networks & Telec
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=0:00ff88,60:0f2942,100:0d1117&height=120&section=footer&reversal=true)
+<img src="https://raw.githubusercontent.com/sonnybn/sonnybn/main/banner.svg" width="100%" alt="footer" style="transform:scaleY(-1)"/>
 
 </div>
