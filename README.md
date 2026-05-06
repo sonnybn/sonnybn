@@ -49,6 +49,8 @@ Cybersecurity student enrolled in a **Bachelor of Technology in Networks & Telec
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM_iSeries-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 **— Development —**
 
