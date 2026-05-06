@@ -15,8 +15,10 @@
   <text x="338" y="73" text-anchor="middle" font-family="'Orbitron', monospace" font-size="42" font-weight="900" letter-spacing="4" fill="#b845ff" opacity="0.25">SONNY BRUN</text>
   <text x="340" y="74" text-anchor="middle" font-family="'Orbitron', monospace" font-size="42" font-weight="900" letter-spacing="4" fill="#e2e8f0">SONNY BRUN</text>
   <text x="340" y="103" text-anchor="middle" font-family="'Share Tech Mono', monospace" font-size="12" letter-spacing="5" fill="#b845ff">CYBERSECURITY  ·  NETWORK  ·  PENTESTING</text>
-  <text x="340" y="140" text-anchor="middle" font-family="'Share Tech Mono', monospace" font-size="10" letter-spacing="2" fill="#3d2d5a">[ NETWORK &amp; TELECOMMUNICATIONS — CYBERSECURITY TRACK ]</text>
-  <rect x="600" y="126" width="6" height="6" fill="#b845ff" opacity="0.8"/>
-  <rect x="612" y="126" width="6" height="6" fill="#b845ff" opacity="0.4"/>
-  <rect x="624" y="126" width="6" height="6" fill="#b845ff" opacity="0.2"/>
+  <rect x="300" y="126" width="6" height="6" fill="#b845ff" opacity="0.8"/>
+  <rect x="312" y="126" width="6" height="6" fill="#b845ff" opacity="0.4"/>
+  <rect x="324" y="126" width="6" height="6" fill="#b845ff" opacity="0.2"/>
+  <rect x="356" y="126" width="6" height="6" fill="#b845ff" opacity="0.2"/>
+  <rect x="368" y="126" width="6" height="6" fill="#b845ff" opacity="0.4"/>
+  <rect x="380" y="126" width="6" height="6" fill="#b845ff" opacity="0.8"/>
 </svg>
